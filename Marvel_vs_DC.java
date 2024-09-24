@@ -1,11 +1,8 @@
 
 // Name: Yvette Boyd
 // Date: 4/1/2024
-// first section 001
-// email: myyvette17@gmail.com
+// email: ev3boyd@gmail.com
 // Assignment title: Program 4
-// “I will practice academic and personal integrity and excellence of
-//    character and expect the same from others."
 import java.util.*;
 
 public class Marvel_vs_DC {
